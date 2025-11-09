@@ -39,5 +39,5 @@ GOOGLE_CLIENT_ID=your_google_client_id
 GOOGLE_CLIENT_SECRET=your_google_client_secret
 NEXTAUTH_SECRET=your_nextauth_secret
 
-
+```
 📄 **ClickUp Documentation:** [View Here](https://doc.clickup.com/90161286992/d/h/2kz0g3ug-1356/cdad2148867e962)
